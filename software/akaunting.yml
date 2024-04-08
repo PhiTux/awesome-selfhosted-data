@@ -2,12 +2,12 @@ name: Akaunting
 website_url: https://akaunting.com/
 description: Akaunting is a free, online and open source accounting software designed for small businesses and freelancers.
 licenses:
-  - GPL-3.0
+  - BUSL-1.1
 platforms:
   - PHP
 tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/akaunting/akaunting
-stargazers_count: 6826
-updated_at: '2023-10-26'
+stargazers_count: 7394
+updated_at: '2024-03-24'
 archived: false

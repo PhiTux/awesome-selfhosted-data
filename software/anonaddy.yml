@@ -5,9 +5,10 @@ licenses:
   - MIT
 platforms:
   - PHP
+  - Docker
 tags:
   - Communication - Email - Complete Solutions
 source_code_url: https://github.com/anonaddy/anonaddy
-stargazers_count: 2552
-updated_at: '2023-10-24'
+stargazers_count: 2964
+updated_at: '2024-03-26'
 archived: false

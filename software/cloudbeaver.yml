@@ -1,5 +1,5 @@
 name: CloudBeaver
-website_url: https://cloudbeaver.io/
+website_url: https://dbeaver.com/
 description: Self-hosted management of databases, supports PostgreSQL, MySQL, SQLite and more. A web/hosted version of DBeaver.
 licenses:
   - Apache-2.0
@@ -8,6 +8,6 @@ platforms:
 tags:
   - Database Management
 source_code_url: https://github.com/dbeaver/cloudbeaver
-stargazers_count: 2583
-updated_at: '2023-10-26'
+stargazers_count: 3026
+updated_at: '2024-04-03'
 archived: false

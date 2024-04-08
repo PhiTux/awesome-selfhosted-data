@@ -7,8 +7,9 @@ platforms:
   - Nodejs
 tags:
   - Recipe Management
+  - Inventory Management
 source_code_url: https://github.com/julianpoy/recipesage
 demo_url: https://recipesage.com
-stargazers_count: 420
-updated_at: '2023-10-22'
+stargazers_count: 525
+updated_at: '2024-04-01'
 archived: false

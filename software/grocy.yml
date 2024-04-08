@@ -8,8 +8,9 @@ platforms:
   - Docker
 tags:
   - Resource Planning
+  - Inventory Management
 source_code_url: https://github.com/grocy/grocy
 demo_url: https://en.demo.grocy.info/
-stargazers_count: 5649
-updated_at: '2023-10-04'
+stargazers_count: 6215
+updated_at: '2024-04-05'
 archived: false

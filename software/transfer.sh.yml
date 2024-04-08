@@ -1,5 +1,5 @@
 name: transfer.sh
-website_url: https://transfer.sh
+website_url: https://github.com/dutchcoders/transfer.sh
 description: Easy file sharing from the command line.
 licenses:
   - MIT
@@ -8,6 +8,6 @@ platforms:
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/dutchcoders/transfer.sh
-stargazers_count: 14480
-updated_at: '2023-10-25'
+stargazers_count: 14891
+updated_at: '2024-03-20'
 archived: false

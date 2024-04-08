@@ -9,7 +9,7 @@ platforms:
   - Docker
 tags:
   - Search Engines
-depends_3rdparty: yes
-stargazers_count: 422
-updated_at: '2023-10-26'
+depends_3rdparty: true
+stargazers_count: 569
+updated_at: '2024-04-02'
 archived: false

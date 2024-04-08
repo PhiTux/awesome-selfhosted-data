@@ -1,13 +1,13 @@
 name: StartOS
 website_url: https://start9.com
-description: ' Browser-based, graphical operating system for a personal server.'
+description: Browser-based, graphical Operating System (OS) that makes running a personal server as easy as running a personal computer.
 licenses:
-  - ⊘ Proprietary
+  - MIT
 platforms:
   - Rust
 tags:
   - Self-hosting Solutions
 source_code_url: https://github.com/Start9Labs/start-os
-stargazers_count: 515
-updated_at: '2023-10-26'
+stargazers_count: 727
+updated_at: '2024-03-29'
 archived: false
